@@ -6,4 +6,5 @@ The code will perform the reconciliation.<br>
 a. first step, calculate the balance (+,-) for each person. <br>
 b. second step, who pays who.
 
-![image](https://user-images.githubusercontent.com/72599048/118461750-e6c75d00-b6f5-11eb-805a-8927d3044deb.png)
+
+![kitty](/img/kitty_elephant.png)
